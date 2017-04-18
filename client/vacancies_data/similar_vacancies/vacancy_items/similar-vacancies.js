@@ -8,18 +8,25 @@ var vacanciesData =[
 		salary:"От 90 000 до 110 000 руб."
 	},
 	{
-		src: 'https://habrastorage.org/getpro/moikrug/uploads/company/100/005/419/5/logo/medium_dbfccb9b1f899bf2660c00d6df74dece.png',
-		title:title:"Senior frontend developer",		
+		src:'https://habrastorage.org/getpro/moikrug/uploads/company/100/004/381/2/logo/medium_9450dc89d2da8e447e32f1a4154719d9.png',
+		title:"Senior frontend developer",		
 		name:"Digital Education Technology",,
 		location:"Санкт-Петербург",,
 		salary:"От 100 000  руб."
 	},
 	{
-		src: 'https://habrastorage.org/getpro/moikrug/uploads/company/100/005/419/5/logo/medium_dbfccb9b1f899bf2660c00d6df74dece.png',
-		title:"Frontend-разработчик",
-		name:'ЗАО "Инфорус"',
+		src:"https://habrastorage.org/getpro/moikrug/uploads/company/100/005/559/4/logo/medium_6561583f79594377818fb685c52bb0aa.png",
+		title:"JavaScript Frontend/Backend разработчик (react, redux, node.js, sql)",
+		name:'ООО "ДиджиРиал"',
 		location:"Москва",
-		salary:"От 90 000 до 110 000 руб."
+		salary:"От 80 000 до 120 000 руб."
+	},
+	{
+		src:"https://habrastorage.org/getpro/moikrug/uploads/company/100/004/693/8/logo/medium_ab777d5b17c34f957b83f47e2e8c5d04.jpg",
+		title:"Frontend-разработчик",
+		name:"МЛСН.ру",
+		location:"Санкт-Петербург",,
+		salary:"От 80 000 до 85 000 руб."
 	}
 ]
 
