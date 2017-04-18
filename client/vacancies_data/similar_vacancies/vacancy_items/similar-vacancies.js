@@ -9,10 +9,10 @@ var vacanciesData =[
 	},
 	{
 		src: 'https://habrastorage.org/getpro/moikrug/uploads/company/100/005/419/5/logo/medium_dbfccb9b1f899bf2660c00d6df74dece.png',
-		title:"Frontend-разработчик",
-		name:'ЗАО "Инфорус"',
-		location:"Москва",
-		salary:"От 90 000 до 110 000 руб."
+		title:title:"Senior frontend developer",		
+		name:"Digital Education Technology",,
+		location:"Санкт-Петербург",,
+		salary:"От 100 000  руб."
 	},
 	{
 		src: 'https://habrastorage.org/getpro/moikrug/uploads/company/100/005/419/5/logo/medium_dbfccb9b1f899bf2660c00d6df74dece.png',
