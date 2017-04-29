@@ -57,7 +57,6 @@ body{
 }
 li {
 	line-height: 23px;
-
 }
 
 em {
@@ -67,15 +66,16 @@ em {
 	font-family: 'PTSansRegular';
 	font-size: 15px;	
 }
-.section.similar_vacancies .title{
+.section.similar_vacancies .head .title{
 	font-family: 'PTSansBold';
 	font-size: 17px;
 	line-height: 19px;
 }
-.section.similar_vacancies .vacancy_item .info .title{
-	font-family: 'PTSansBold';
-	font-size: 19px;
-	line-height: 25px;
+.section .head .title{
+	line-height: 23px;
+}
+.location{
+	font-family: 'PTSansRegular';
 }
 @font-face {
 	font-family: 'PTSansBold';

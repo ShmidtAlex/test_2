@@ -15,17 +15,17 @@ var vacanciesData =[
 		salary:"От 100 000  руб."
 	},
 	{
-		src:"https://habrastorage.org/getpro/moikrug/uploads/company/100/005/559/4/logo/medium_6561583f79594377818fb685c52bb0aa.png",
+		src:"https://habracdn.net/mk/assets/defaults/companies/logo/medium_default-24155d3c1826f1b948ff74257329961a.png",
 		title:"JavaScript Frontend/Backend разработчик (react, redux, node.js, sql)",
-		name:'ООО "ДиджиРиал"',
-		location:"Москва",
+		name:'ООО ДиджиРиал',
+		location:"Краснодар",
 		salary:"От 80 000 до 120 000 руб."
 	},
 	{
 		src:"https://habrastorage.org/getpro/moikrug/uploads/company/100/004/693/8/logo/medium_ab777d5b17c34f957b83f47e2e8c5d04.jpg",
 		title:"Frontend-разработчик",
 		name:"МЛСН.ру",
-		location:"Санкт-Петербург",
+		location:"Омск",
 		salary:"От 80 000 до 85 000 руб."
 	}
 ]

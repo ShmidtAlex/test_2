@@ -2384,25 +2384,28 @@ table.transactions tr td.price{color:#464646;font-weight:bold;white-space:nowrap
 .section.company_info .vacancies_list .vacancy_item+.vacancy_item,.section.similar_vacancies .vacancies_list .vacancy_item+.vacancy_item{
 	border-top:1px solid #ededed}
 .section.company_info .vacancies_list .vacancy_item,.section.similar_vacancies .vacancies_list .vacancy_item{
-	position:relative;text-align:left;padding:15px 0;min-height:68px;overflow:hidden;}
+	position:relative;text-align:left;padding:15px 0;min-height:68px;overflow:hidden; }
 .section.company_info .vacancies_list .vacancy_item .job_icon,.section.similar_vacancies .vacancies_list .vacancy_item .job_icon{
 	position:absolute;left:0;top:15px;width:40px;height:40px;
 	display:block;border-radius:4px;background-color:#fff;
 	background-size:contain;background-repeat:no-repeat;background-position:center}
-.section.company_info .vacancies_list .vacancy_item .info,.section.similar_vacancies .vacancies_list .vacancy_item .info{margin-left:50px}
+.section.company_info .vacancies_list .vacancy_item .info,.section.similar_vacancies .vacancies_list .vacancy_item .info{
+	margin-left:50px;}
 .section.company_info .vacancies_list .vacancy_item .info .title,.section.similar_vacancies .vacancies_list .vacancy_item .info .title{
 	font-size:15px;line-height:18px;font-weight:bold;color:#464646;font-family: 'PTSansBold';}
-.section.company_info .vacancies_list .vacancy_item .info .title a,.section.similar_vacancies .vacancies_list .vacancy_item .info .title a{color:#464646}
+.section.company_info .vacancies_list .vacancy_item .info .title a,.section.similar_vacancies .vacancies_list .vacancy_item .info .title a{
+	color:#464646;font-family: 'PTSansBold';}
 .section.company_info .vacancies_list .vacancy_item .info .company_name,.section.similar_vacancies .vacancies_list .vacancy_item .info .company_name{
-	margin-top:5px;font-size:15px;font-weight:bold;color:#999}
-.section.company_info .vacancies_list .vacancy_item .info .company_name a,.section.similar_vacancies .vacancies_list .vacancy_item .info .company_name a{
+	margin-top:5px;font-size:15px;font-weight:bold;color:#999;font-family: 'PTSansBold'; line-height: 19px;}
+.section.company_info .vacancies_list .vacancy_item .info .company_name a,.section.similar_vacancies 
+.vacancies_list .vacancy_item .info .company_name a{
 	color:#999}
 .section.company_info .vacancies_list .vacancy_item .info .location,.section.similar_vacancies .vacancies_list .vacancy_item .info .location{
-	margin-top:5px;font-size:15px;color:#999}
+	margin-top:5px;font-size:15px;color:#999; font-family: 'PTSansRegular';line-height: 19px;}
 .section.company_info .vacancies_list .vacancy_item .info .location a,.section.similar_vacancies .vacancies_list .vacancy_item .info .location a{
 	color:#999}
 .section.company_info .vacancies_list .vacancy_item .info .salary,.section.similar_vacancies .vacancies_list .vacancy_item .info .salary{
-	margin-top:5px;color:#68c07b;font-weight:bold;font-size:15px;font-family: 'PTSansBold'; }
+	margin-top:5px;color:#68c07b;font-weight:bold;font-size:15px;font-family: 'PTSansBold'; line-height: 18px;}
 .section.add_company{overflow:hidden}
 .section.add_company .picture{background:url(https://habracdn.net/mk/assets/add_company_picture-93a8b617e9471a14e8c4a720c9d4471f.png);
 	width:230px;height:167px;margin:-10px -20px 0}
