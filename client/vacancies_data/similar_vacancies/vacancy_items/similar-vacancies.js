@@ -5,7 +5,11 @@ var vacanciesData =[
 		title:"Frontend-разработчик",
 		name:'ЗАО "Инфорус"',
 		location:"Москва",
-		salary:"От 90 000 до 110 000 руб."
+		salary:"От 90 000 до 110 000 руб.",
+		vacancy_url:'https://moikrug.ru/vacancies/1000032599',
+		company_url:"https://moikrug.ru/companies/inforus",
+		location_url:"https://moikrug.ru/vacancies?city_id=678"
+
 	},
 	{
 		src:'https://habrastorage.org/getpro/moikrug/uploads/company/100/004/381/2/logo/medium_9450dc89d2da8e447e32f1a4154719d9.png',
@@ -53,10 +57,10 @@ Template.similarVacancies.helpers({
 		vacancy_url:'https://moikrug.ru/vacancies/1000029931',
 		https://moikrug.ru/companies/mlsnru",
 		location_url:"https://moikrug.ru/vacancies?currency=rur&location=%D0%9E%D0%BC%D1%81%D0%BA&city_id=718"
-	},
+	}
 ]
 
-Template.vacancyItem.helpers({
+Template.urlData.helpers({
 	
 	icon: iconData,
 	title:titleData,
