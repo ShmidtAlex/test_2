@@ -77,6 +77,10 @@ em {
 .location{
 	font-family: 'PTSansRegular';
 }
+ /*это высота фона в разделе similar_vacancies если ее уменьшить, ничего не даст, только из под нижней вакансии исчезнет фон
+ .similar_vacancies .body{
+	height: 515px;
+}*/
 @font-face {
 	font-family: 'PTSansBold';
 	src: url(fonts/PTS75F_W.eot);
